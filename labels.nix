@@ -50,6 +50,16 @@
     description = "";
   };
 
+  "2. status: abandoned" = {
+    color = "A0241B";
+    description = "";
+  };
+
+  "2. status: on hold" = {
+    color = "A0241B";
+    description = "";
+  };
+
   "3. needs: documentation" = {
     color = "A303D6";
     description = "";
@@ -60,7 +70,27 @@
     description = "";
   };
 
+  "3. needs: review" = {
+    color = "A303D6";
+    description = "";
+  };
+
   "3. needs: tests" = {
+    color = "A303D6";
+    description = "";
+  };
+
+  "3. needs: changes" = {
+    color = "A303D6";
+    description = "";
+  };
+
+  "3. needs: revision" = {
+    color = "A303D6";
+    description = "";
+  };
+
+  "3. needs: translations" = {
     color = "A303D6";
     description = "";
   };
@@ -74,4 +104,15 @@
     color = "816A74";
     description = "";
   };
+
+  "5. (╯•﹏•╰)" = {
+    color = "ff0000";
+    description = "";
+  };
+
+  "5. *\\(^o^)/*" = {
+    color = "ff0000";
+    description = "";
+  };
+
 }
