@@ -51,17 +51,17 @@
   };
 
   "3. needs: documentation" = {
-    color = "D3367D";
+    color = "A303D6";
     description = "";
   };
 
   "3. needs: resolve conflicts" = {
-    color = "D3367D";
+    color = "A303D6";
     description = "";
   };
 
   "3. needs: tests" = {
-    color = "D3367D";
+    color = "A303D6";
     description = "";
   };
 
