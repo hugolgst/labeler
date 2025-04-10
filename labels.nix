@@ -97,12 +97,12 @@
   };
 
   "4. is: incomplete" = {
-    color = "816A74";
+    color = "616c91";
     description = "whether it is intentionally or unintentionally incomplete";
   };
 
   "4. is: removing features" = {
-    color = "816A74";
+    color = "616c91";
     description = "";
   };
 
